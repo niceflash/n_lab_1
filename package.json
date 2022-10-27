@@ -1,0 +1,22 @@
+{
+  "name": "lab-1",
+  "version": "1.0.0",
+  "description": "lab-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niceflash/n_lab_1.git"
+  },
+  "keywords": [
+    "lab"
+  ],
+  "author": "timur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niceflash/n_lab_1/issues"
+  },
+  "homepage": "https://github.com/niceflash/n_lab_1#readme"
+}
